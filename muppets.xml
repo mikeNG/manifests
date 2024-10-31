@@ -34,6 +34,12 @@
   <project name="TheMuppets/proprietary_vendor_google_husky" path="vendor/google/husky" groups="muppets,muppets_husky" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_shiba" path="vendor/google/shiba" groups="muppets,muppets_shiba" clone-depth="1" />
 
+  <!-- Google G4 -->
+  <project name="TheMuppets/proprietary_vendor_google_caiman" path="vendor/google/caiman" groups="muppets,muppets_caiman" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_comet" path="vendor/google/comet" groups="muppets,muppets_comet" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_komodo" path="vendor/google/komodo" groups="muppets,muppets_komodo" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_tokay" path="vendor/google/tokay" groups="muppets,muppets_tokay" clone-depth="1" />
+
   <!-- Google GS101 -->
   <project name="TheMuppets/proprietary_vendor_google_bluejay" path="vendor/google/bluejay" groups="muppets,muppets_bluejay" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_oriole" path="vendor/google/oriole" groups="muppets,muppets_oriole" clone-depth="1" />
